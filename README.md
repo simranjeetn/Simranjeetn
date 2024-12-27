@@ -1,3 +1,5 @@
+![logo](https://github.com/simranjeetn/Simranjeets/blob/main/data_analyst_2.0.png)
+
 <h1 align="center">Hi 👋, I'm Simranjeet Singh</h1>
 <h3 align="center">Freelance Data Analyst</h3>
 
